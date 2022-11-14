@@ -15,4 +15,5 @@ void main()
   scanf("%d", trophies);
   return 0;
 }
+registration number: RA2211042010050
   
