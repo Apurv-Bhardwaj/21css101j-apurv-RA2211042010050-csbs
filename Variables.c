@@ -9,3 +9,4 @@ void main()
   example = birthyear - age;
   printf("i am %d years old and i was born in %d and i am planning on buying %d snacks", age, birthyear, example);
 }
+regitsration number: RA2211042010050
