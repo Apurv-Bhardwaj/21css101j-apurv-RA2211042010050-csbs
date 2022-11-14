@@ -7,3 +7,4 @@ int main(){
  printf("%d\t%d\t%d\n",i,j,k);}
 }
 //this program successfully prints the intended 3x3 matrix of the numbers coded into the software
+registration number: RA2211042010050
