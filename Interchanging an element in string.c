@@ -6,3 +6,4 @@ void main()
  bottles[2] = 'd'; //we are interchanging the character 'o' for 'd'
  printf("i have %s bottles", bottles );
 }
+regisration number: RA2211042010050
