@@ -6,3 +6,4 @@ printf("my name is %s\n", name);
  name[13] = 'w';
  printf("my name is %s", name);
 }
+regisration number: RA2211042010050
