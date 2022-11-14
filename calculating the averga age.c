@@ -7,6 +7,6 @@ void main() {
     scanf("%f", &age3);
     
     average = (age1 + age2 + age3) / 3;
-    printf("\n The average age of the group of people %f", average);
-    
+    printf("\n The average age of the group of people %f", average); 
 }
+regitsration number: RA2211042010050
