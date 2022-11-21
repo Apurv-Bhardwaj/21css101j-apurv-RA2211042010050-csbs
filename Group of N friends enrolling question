@@ -1,0 +1,20 @@
+#include <stdio.h>
+int main(){
+printf("RA2211042010050");
+int M;
+int K;
+int N;
+printf("Enter number of students enrolling in the group (n): \n");
+scanf("%d", &N);
+printf("Enter the capacity of maximum capacity of students for this course: \n");
+scanf("%d", &M);
+printf("Enter the number of students who have already enrolled: \n");
+scanf("%d", &K);
+total = K + N;
+if (M < total) {
+printf("No");
+}
+else {
+printf("yes");
+}
+    
