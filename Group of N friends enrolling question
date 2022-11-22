@@ -4,6 +4,7 @@ printf("RA2211042010050");
 int M;
 int K;
 int N;
+int total;
 printf("Enter number of students enrolling in the group (n): \n");
 scanf("%d", &N);
 printf("Enter the capacity of maximum capacity of students for this course: \n");
